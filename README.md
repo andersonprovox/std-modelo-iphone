@@ -18,6 +18,8 @@ Projeto desafio exposto no link:
 
 ## Diagrama da solução
 
+![diagraUML](https://github.com/andersonprovox/std-modelo-iphone/blob/main/diagrama%20de%20classe.png)
+
 ```plantuml
 interface iPhone
 class NavegadorInternet
@@ -32,7 +34,3 @@ iPhone <|-- AparelhoTelefonico
 ReprodutorMultimedia *-- ReprodutorMusica
 ReprodutorMultimedia *-- ReprodutorVideo
 ```
-
-![](/home/anderson/Projetos/std-modelo-iphone/diagrama%20de%20classe.png)
-
-
